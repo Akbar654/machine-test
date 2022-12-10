@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.list{
+  list-style: none;
+}
+
+.list-item{
+  background-color: lightgray;
+  margin: 10px;
+  padding: 10px;
+  width: 285px;
+  margin: auto;
+}
+
+
+
+
